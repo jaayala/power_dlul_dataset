@@ -1,10 +1,6 @@
 Dataset providing a set of measurement of performance and power consumpetion of a virtualized Base Station (srseNB). The details of the experiments and the softwared and hardware used can be found in the paper:
-
-Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs. IEEE INFOCOM 2021.
-
-
+Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs. IEEE INFOCOM 2021.
 - **Configurations:**
-
 "date": Timestamp of the measurement
 "cpu_platform": CPU model of the computing platform running the BBU
 "BW": Bandwidth of the LTE interface in number of resource block. For instance, BW = 50 -> 10 MHz
@@ -24,7 +20,6 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). B
 "selected_airtime_ul": Selected airtime on the uplink
 
 - **Measurements:**
-
 "mean_used_mcs_dl": Average MCS used during the experiment on the downlink
 "mean_used_mcs_ul": Average MCS used during the experiment on the uplink
 "bsr_dl": Average Buffer Status Report downlink
@@ -56,18 +51,8 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). B
 "failed_experiment": If 1, it indicates that the experiment has failed due to decoding error.
 
 
-
-
 ## Citing Work
-If you use any code please cite the following:
-```
-@inproceedings{ayala2021,
-  title={Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs},
-  author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Costa-Perez, Xavier and Iosifidis, George},
-  booktitle={{IEEE} Conference on Computer Communications, {INFOCOM} 2021},
-  year={2021}
-}
-```
+If you use any code please cite the following:```@inproceedings{ayala2021,  title={Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs},  author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Costa-Perez, Xavier and Iosifidis, George},  booktitle={{IEEE} Conference on Computer Communications, {INFOCOM} 2021},  year={2021}}```
 
 
 
