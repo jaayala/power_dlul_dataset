@@ -50,8 +50,8 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). B
 "airtime_ul": Average measured airtime on the uplink \
 "cqi_dl": Average CQI value on the downlink \
 "cqi_ul": Average CQI value on the uplink \
-"fixed_mcs_flag": if 0, the value of the fields 'selected_mcs_dl' and 'selected_mcs_dl' is taken as an upper bound, i.e., the radio scheduler can select lower values for the MCS when it is required by the radio channel. If 1, the radio scheduler is forced to use these MCS values. When the channel quality is poor, decoding errors may occur. \
-"failed_experiment": If 1, it indicates that the experiment has failed due to decoding error. \
+"fixed_mcs_flag": if 0, the value of the fields 'selected_mcs_dl' and 'selected_mcs_dl' is taken as an upper bound, i.e., the radio scheduler can select lower values for the MCS when it is required by the radio channel. If 1, the radio scheduler is forced to use these MCS values. When the channel quality is poor, decoding errors may occur \
+"failed_experiment": If 1, it indicates that the experiment has failed due to decoding error \
 
 
 ## Citing Work
