@@ -1,9 +1,9 @@
 Dataset providing a set of measurement of performance and power consumpetion of a virtualized Base Station (srseNB). The details of the experiments and the softwared and hardware used can be found in the paper:
-Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs. IEEE INFOCOM 2021.
+Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs. IEEE INFOCOM 2021.
 - **Configurations:**
-"date": Timestamp of the measurement
-"cpu_platform": CPU model of the computing platform running the BBU
-"BW": Bandwidth of the LTE interface in number of resource block. For instance, BW = 50 -> 10 MHz
+"date": Timestamp of the measurement \
+"cpu_platform": CPU model of the computing platform running the BBU \
+"BW": Bandwidth of the LTE interface in number of resource block. For instance, BW = 50 -> 10 MHz \
 "TM": Transmission mode
 "UL/DL": Indicates if we consider the Uplink (UL), the downlink (DL), or both (DLUL)
 "traffic_load_dl": Downlink traffic load
