@@ -1,4 +1,5 @@
 Dataset providing a set of measurement of performance and power consumpetion of a virtualized Base Station (srseNB). The details of the experiments and the softwared and hardware used can be found in the paper:
+
 Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs. IEEE INFOCOM 2021.
 - **Configurations:**
 
