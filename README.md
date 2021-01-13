@@ -12,10 +12,6 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). B
 "traffic_load_ul": Uplink traffic load \
 "txgain_dl": Transmission gain of the USRP implementing the BS  \
 "txgain_ul": Transmission gain of the USRP implementing the UE \
-"cpu_time": Ratio of the time assigned to the CPU that runs the BS process, [0, 1]. \
-"number_active_cores": Number of active cores at the CPU \
-"pinning": when -1 no pinning is used \
-"cpu_config": configuration of the governor of the CPU \
 "selected_mcs_dl": Selected MCS on the downlink \
 "selected_mcs_ul": Selected MCS on the uplink \
 "selected_airtime_dl": Selected airtime on the downlink \
@@ -55,7 +51,15 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). B
 
 
 ## Citing Work
-If you use any code please cite the following:```@inproceedings{ayala2021,  title={Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs},  author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Costa-Perez, Xavier and Iosifidis, George},  booktitle={{IEEE} Conference on Computer Communications, {INFOCOM} 2021},  year={2021}}```
+If you use any code please cite the following:
+```
+@inproceedings{ayala2021,
+  title={Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs},
+  author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Costa-Perez, Xavier and Iosifidis, George},
+  booktitle={{IEEE} Conference on Computer Communications, {INFOCOM} 2021},
+  year={2021}
+}
+```
 
 
 
