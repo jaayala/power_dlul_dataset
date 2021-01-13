@@ -3,7 +3,7 @@ Dataset providing a set of measurement of performance and power consumpetion of 
 Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RANs. IEEE INFOCOM 2021.
 
 
--**Configurations:**
+- **Configurations:**
 
 "date": Timestamp of the measurement
 "cpu_platform": CPU model of the computing platform running the BBU
@@ -23,7 +23,7 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). B
 "selected_airtime_dl": Selected airtime on the downlink
 "selected_airtime_ul": Selected airtime on the uplink
 
--**Measurements:**
+- **Measurements:**
 
 "mean_used_mcs_dl": Average MCS used during the experiment on the downlink
 "mean_used_mcs_ul": Average MCS used during the experiment on the uplink
